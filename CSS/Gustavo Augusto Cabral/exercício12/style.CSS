@@ -1,0 +1,30 @@
+.body{
+    background-color: #fa7968;
+}
+h2 {
+margin-left: 20px;
+}
+.h1-colorido {
+margin-left: 10px;
+color: #ff0000;
+background-color: #ffee00;
+}
+.hex-colorido {
+margin-left: 15px;
+background-color: #ffee00;
+color: #ff0000;
+}
+.rgb-colorido {
+margin-left: 15px;
+background-color: rgb(255, 251, 0);
+color: rgb(255, 0, 0);
+}
+.hsl-colorido {
+margin-left: 15px;
+background-color: hsl(59, 100%, 50%);
+color: hsl(0, 100%, 50%);
+}
+.pg {
+margin-left: 10px;
+color:aliceblue
+}
